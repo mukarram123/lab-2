@@ -1,1 +1,1 @@
-# lab-2
+lab02-dom-resources
